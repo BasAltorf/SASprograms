@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1669192528269" Description="version A" Name="List_Job" PackageName="List_Job.spk" UserID="sasdemo@snlsea" Version="be1eafe">
+<ContainObj>SBIP://METASERVER/Projects/FRAAI/List_Job(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
