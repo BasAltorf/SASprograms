@@ -5,4 +5,10 @@
 <ArchInfo Date="1669193227489" Description="version B" Name="List_Job" PackageName="List_Job.spk" UserID="sasdemo@snlsea" Version="c628cf8">
 <ContainObj>SBIP://METASERVER/Projects/FRAAI/List_Job(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1669713143801" Description="" Name="test 2" PackageName="test 2.spk" UserID="sasdemo@snlsea" Version="ec65254">
+<ContainObj>SBIP://METASERVER/Projects/FRAAI(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/FRAAI/Class select(StoredProcess)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/FRAAI/Maintain Exchange Layer Configuration ori(StoredProcess)</ContainObj>
+<ContainObj>SBIP://METASERVER/Projects/FRAAI/List_Job(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
